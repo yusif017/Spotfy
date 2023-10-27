@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\uploads\\35c42eef-8a0d-4c69-9739-0a647a770d52insert-image-html.jpg",
+      "PackagePath": "staticwebassets\\uploads\\35c42eef-8a0d-4c69-9739-0a647a770d52insert-image-html.jpg"
+    },
+    {
+      "Id": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\uploads\\64dadd79-7a08-4a5f-8608-0e1b17141311insert-image-html.jpg",
+      "PackagePath": "staticwebassets\\uploads\\64dadd79-7a08-4a5f-8608-0e1b17141311insert-image-html.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

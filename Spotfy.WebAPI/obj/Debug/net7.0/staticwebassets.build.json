@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "EaVQoriFKosavsR73ew0OzSM9NPSvtTzL60MZiY184Y=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\uploads\\35c42eef-8a0d-4c69-9739-0a647a770d52insert-image-html.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/35c42eef-8a0d-4c69-9739-0a647a770d52insert-image-html.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\35c42eef-8a0d-4c69-9739-0a647a770d52insert-image-html.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\uploads\\64dadd79-7a08-4a5f-8608-0e1b17141311insert-image-html.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "uploads/64dadd79-7a08-4a5f-8608-0e1b17141311insert-image-html.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\64dadd79-7a08-4a5f-8608-0e1b17141311insert-image-html.jpg"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\bin\Debug\net7.0\Spotfy.Core.deps.json
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\bin\Debug\net7.0\Spotfy.Core.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\bin\Debug\net7.0\Spotfy.Core.pdb
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.csproj.AssemblyReference.cache
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.AssemblyInfoInputs.cache
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.AssemblyInfo.cs
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.csproj.CoreCompileInputs.cache
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\refint\Spotfy.Core.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\Spotfy.Core.pdb
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Core\obj\Debug\net7.0\ref\Spotfy.Core.dll

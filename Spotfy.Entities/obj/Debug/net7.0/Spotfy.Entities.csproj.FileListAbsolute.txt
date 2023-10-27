@@ -1,0 +1,15 @@
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\bin\Debug\net7.0\Spotfy.Entities.deps.json
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\bin\Debug\net7.0\Spotfy.Entities.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\bin\Debug\net7.0\Spotfy.Entities.pdb
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\bin\Debug\net7.0\Spotfy.Core.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\bin\Debug\net7.0\Spotfy.Core.pdb
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.csproj.AssemblyReference.cache
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.AssemblyInfoInputs.cache
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.AssemblyInfo.cs
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.csproj.CopyComplete
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\refint\Spotfy.Entities.dll
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\Spotfy.Entities.pdb
+C:\Users\yusif\source\repos\SpotfyMusic\Spotfy.Entities\obj\Debug\net7.0\ref\Spotfy.Entities.dll

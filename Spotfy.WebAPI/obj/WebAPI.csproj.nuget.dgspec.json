@@ -1,0 +1,372 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spofy.Business\\Spofy.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spofy.Business\\Spofy.Business.csproj",
+        "projectName": "Spofy.Business",
+        "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spofy.Business\\Spofy.Business.csproj",
+        "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spofy.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj": {
+                "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj"
+              },
+              "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Sptfy.DataAccsess\\Sptfy.DataAccsess.csproj": {
+                "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Sptfy.DataAccsess\\Sptfy.DataAccsess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj",
+        "projectName": "Spotfy.Core",
+        "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj",
+        "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj",
+        "projectName": "Spotfy.Entities",
+        "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj",
+        "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj": {
+                "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spofy.Business\\Spofy.Business.csproj": {
+                "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spofy.Business\\Spofy.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Sptfy.DataAccsess\\Sptfy.DataAccsess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Sptfy.DataAccsess\\Sptfy.DataAccsess.csproj",
+        "projectName": "Sptfy.DataAccsess",
+        "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Sptfy.DataAccsess\\Sptfy.DataAccsess.csproj",
+        "packagesPath": "C:\\Users\\yusif\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Sptfy.DataAccsess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yusif\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj": {
+                "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Core\\Spotfy.Core.csproj"
+              },
+              "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj": {
+                "projectPath": "C:\\Users\\yusif\\source\\repos\\SpotfyMusic\\Spotfy.Entities\\Spotfy.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
